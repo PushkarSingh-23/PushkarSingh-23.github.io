@@ -1,101 +1,131 @@
-<!---#PushkarSingh-23.github.io --->
 # Pushkar Singh Tomar
-# Hey Its me !!
-- 👋 Hi, I’m @PushkarSingh-23
+
+<img alt="Coder GIF" height=250 width=350 align='right' src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+***Hey Its me !!***
+- 👋 Hi, I’m @pushkarsingh-23
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python,java,c# and machine learning using python
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me pushkar8171@gmail.com , insta - Pushkar_._singh
-
-#I am a Highly organized and detail-oriented student of MediCaps university who has excellent communication skills, enabling me to effectively communicate with a wide range of people. I am seeing a part-time position in the industry in which I can put into practice my knowledge and experience, ultimately benefiting the operations of the organization that I work for. I like to play football and volleyball and I have an interest in learning new things and exploring new dimensions of my life.
-
-# Pushkarsingh Tomar
+- 💞 I’m looking to collaborate on open source project
+- 📫 How to reach me tomar8172@gmail.com , insta - pushkar_._singh
+<br><br><br><br>
 
 **ADDRESS**
-36 MIG A shashtripuram Agra
-Uttar Pradesh
-District* 282007
 
 ```
-36 MIG A shashtripuram Agr
-a, Uttar Pradesh, District* 28
-2007
+36 A Shashtripuram Agra
+Uttar Pradesh, 
+Postal Code: 282007
 7058952306
-tomar 8172 @gmail.com
-23 June 2001
+tomar8172@gmail.com
+23 06 2001
 ```
 **OBJECTIVE**
+```
 To obtain a position that enables me to use my strong organisational skills, award-winning educational
 background and ability to work well with people.
-
-**EDUCATION
-R.C Patel English Medium Secondary School shirpur
-Class 10** Science
-
 ```
-(June 2016 - May 2017 )
-86. 80
-```
-**R.C Patel JR. College shirpur
-class 12** Science
 
+**EDUCATION**
+```
+R.C Patel English Medium Secondary School
+Class 10: (June 2016 - May 2017 )
+86.80
+```
+```
+R.C Patel Jr College 
+Class 12: Science (PCMB+IT)
 (June 2018 - May 2019 )
-83. 33
-completed my 12 std withy physics,Maths,Biology,chemistry,IT
-
+83.54
+```
 **Medicaps University
-Bachelor's Degree** Computer Science (AI)
-
+Bachelor's Degree** 
+```
+Computer Science (AI)
 (August 2020 - Present)
-9. 98
+9.99
 First Semester
-
-**HOBBIES
+```
+**HOBBIES**
+```
 Footbal
 Drawing
 Reading Newspaper
 learning about ancient history
-Watching Si- Movies**
+Watching Si- Movie
 
 ```
-LANGUAGES
+**LANGUAGES**
+```
 Hindi
-Native
-```
-```
-Marathi
-Native
 English
-Procient
+Marathi
 ```
-**CERTIFICATIONS
-Python**
-Coursera April^2021
-
-**The Complete C++ programming course-
-Build 10 computer Apps**
-udemy
-
+**CERTIFICATIONS**
 ```
-September
-2021
-```
-**SKILLS
-C Programing** 
-Advance
+Python
+Coursera April 2021
 
-**Python**
-Advance
-**C++**
-Moderate
+The Complete C++ programming course-Build 10 computer Apps udemy
+September 2021
 
-**Html**
-Advance
-**CSS**
-Advance
+AWS Academy Graduate - AWS Academy Cloud FoundationsAWS Academy Graduate - AWS Academy Cloud Foundations
+Amazon Web Services Training and CertificationAmazon Web Services Training and Certification
+Issued Jun 2022
+
+Python for Machine Learning with Numpy, Pandas & Matplotlib Python for Machine Learning with Numpy, Pandas & Matplotlib
+UdemyUdemy
+Issued Jan 2022Issued Jan 2022
+Credential ID UC-955017ff-fc09-4b39-9152-52bde22ee12c
+
+Robotic Process Automation (RPA) Virtual Internship Robotic Process Automation (RPA) Virtual Internship 
+AICTEAICTE
+Issued Dec 2021Issued Dec 2021
+Credential ID 044ab06bed7ab184ffda31cc6b60ef05
 
 ```
+**SKILLS**
+
+``
+C Programing 
+Advance
+``
+``
+Python 
+Advance
+``
+``
+C++
+Advance
+``
+``
+Html
+Advance
+``
+``
+CSS
+Advance
+``
+``
 Java
 Advance
-```
+``
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
+</p>
+
+**Tasks**
+
+- [x] Machine Learing
+- [x] Python
+- [x] C++
+- [x] C
+- [x] JAVA
+- [x] HTML
+- [x] CSS
